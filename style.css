@@ -65,8 +65,14 @@ color: white;
   grid-column: 3;
   grid-row: 2;
   text-align: center;
-  margin-top: 15px;
-  padding-left: 10px;
+  padding-top: 15px;
+  padding-left: 4em;
+
+}
+
+.just{
+  text-align: justify;
+
 
 }
 
@@ -83,8 +89,7 @@ color: white;
  font-size:20px;
  font-weight: 400;
  line-height: 45px;
- margin: 0 auto 2em;
- margin-bottom: 0px;
+
  max-width: 300px;
 
 
