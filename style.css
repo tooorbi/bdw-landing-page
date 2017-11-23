@@ -27,12 +27,18 @@ h2{
   padding-bottom: 0;
   margin-bottom: 0;
 }
+
+.underline{
+  text-decoration: underline;
+}
+
 .wrapper {
 
   display: grid;
   grid-template-columns: 1fr 2fr 2fr 1fr;
 
 }
+
 
 .box{
 color: white;
